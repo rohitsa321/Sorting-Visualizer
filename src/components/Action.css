@@ -1,0 +1,6 @@
+.action {
+  display: flex;
+  flex-direction: row;
+  height: 88vh;
+  width: 1200px;
+}
